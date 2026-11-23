@@ -20,6 +20,7 @@ AI cuts across every SIG. A policy owned by any one SIG wouldn't bind the others
 3. **Tooling and resources.** Compare candidate tools, find free or discounted AI credits, and recommend how to track cost and usage.
 4. **Making O3DE readable by AI tools.** Recommend agent instruction files (for example `AGENTS.md`), an `llms.txt` for the docs site, and ways to surface knowledge that lives only in Discord. With SIG-Docs-Community.
 5. **SIG-AI charter.** Write the scope, membership rules and ownership boundaries for a permanent SIG-AI and present it to the TSC.
+6. **Defending the repositories against attacks.** With SIG-Security, write a strategy against attacks that AI makes cheaper, such as backdoored or spam PRs and supply-chain attacks, and against prompt injection aimed at the project's own AI tools.
 
 AI features in the engine itself (ML gems, in-editor assistants, AI-driven tools) are exploratory only: the WG lists existing efforts and recommends who should own them. The WG doesn't build engine features.
 
@@ -72,7 +73,7 @@ Each SIG can name one liaison so policy drafts reflect how that SIG actually rev
 | SIG | Liaison | Involvement |
 |---|---|---|
 | SIG-Platform | *TBD* | Hosts the first pilots |
-| SIG-Security | *TBD* | Reviews tool permissions and the security screening pilot |
+| SIG-Security | *TBD* | Reviews tool permissions and the security screening pilot; co-writes the repository defense strategy |
 | SIG-Build | *TBD* | Reviews CI cost and load |
 | SIG-Docs-Community | *TBD* | Docs and community knowledge readable by AI tools |
 | Other SIGs | *TBD* | Opt in to pilots; keep final say over their own review rules |
