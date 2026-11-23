@@ -18,11 +18,11 @@ The agenda for each meeting is an [issue in this repository](https://github.com/
 
 ## Notes
 
-The note taker commits notes to [notes/](notes/readme.md) as `WG-AI meeting - YYYY-MM-DD.md` and links them from the agenda issue.
+The note taker commits notes to [notes/](notes/readme.md) as `YYYY-MM-DD-WG-AI-meeting.md` and links them from the agenda issue.
 
 | Date | Agenda | Notes |
 |---|---|---|
-| *First meeting TBD* | | |
+| 2026-11-23 | | [Notes](notes/2026-11-23-WG-AI-meeting.md) |
 
 ## Standing meeting items
 
