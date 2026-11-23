@@ -47,6 +47,17 @@ Defines how O3DE uses AI as a project, and how contributors may use it, then han
 
 **5. A SIG-AI charter.** Write the scope, membership rules and ownership boundaries for the permanent SIG, and present it to the TSC.
 
+**6. Defending the repositories against attacks.** With SIG-Security, write a strategy for protecting O3DE's open-source repositories from attacks that AI makes cheaper, and from attacks aimed at the AI tools the project runs. It covers:
+
+* Malicious or backdoored changes hidden in large or AI-generated PRs, especially changes to build scripts, CI workflows and 3rd-party package definitions.
+* Floods of low-quality or spam PRs and issues that wear out reviewers.
+* Prompt injection against the project's own AI tools: instructions hidden in a PR, issue or file that try to steer an AI reviewer or triage bot.
+* Supply-chain attacks through dependencies, GitHub Actions and 3rd-party packages.
+* Leaked secrets and over-privileged tokens in CI and bot accounts.
+* Attackers using AI to find vulnerabilities faster, and how the project receives and responds to reports.
+
+The strategy recommends defenses, such as required human review for CI and build-file changes, pinned Actions, rate limits for new contributors, and treating everything an AI tool reads as untrusted input, and names who should own each one. The WG recommends; SIG-Security and the affected SIGs decide and implement.
+
 ## Exploratory, with a recommendation only
 
 * **AI features in the engine itself**, such as ML gems, in-editor assistants and AI-driven tools. The WG will list existing efforts and recommend whether SIG-AI should own them, share them with existing SIGs, or leave them alone. The WG won't build engine features.
@@ -65,7 +76,7 @@ The WG works through the existing SIGs and doesn't replace any of them.
 | SIG | Involvement |
 |---|---|
 | SIG-Platform | Volunteers to host the first pilots. |
-| SIG-Security | Reviews tool permissions and the security screening pilot. |
+| SIG-Security | Reviews tool permissions and the security screening pilot. Co-writes the repository defense strategy. |
 | SIG-Build | Reviews CI cost and load. |
 | SIG-Docs-Community | Works on making docs and community knowledge readable by AI tools. |
 | All SIGs | Can name a liaison to speak for their SIG. Opt in to pilots. Keep final say over their own review rules. |
