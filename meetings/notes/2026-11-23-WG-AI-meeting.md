@@ -33,9 +33,9 @@ The group read the charter together, and colinb explained it.
 
 Each lead self-nominated, and the WG decided:
 
-- **Iris** is chair.
-- **colinb** is co-chair.
-- **Shauna** is responsible for the [AI contribution policy](https://github.com/o3de/wg-ai/blob/main/policy/AI%20Contribution%20Policy%20(draft).md) document.
+- **Iris  [ Coffee-Road Studios ]** is chair.
+- **colinb[APMG]** is co-chair.
+- **Shauna [Genome Studios]** is responsible for the [AI contribution policy](https://github.com/o3de/wg-ai/blob/main/policy/AI%20Contribution%20Policy%20(draft).md) document.
 
 ## Discussion
 
