@@ -9,7 +9,8 @@ Team information is in the [README](../README.md).
 Defines how O3DE uses AI as a project, and how contributors may use it, then hands that work to a permanent SIG-AI.
 
 - **Formed:** 2026-11-17
-- **Lifespan:** 6 months from formation, ending with a formal proposal for SIG-AI and its charter. The TSC can extend the WG by vote if the work isn't finished.
+- **Started:** 2026/11/23, the first WG meeting. All timeline dates in this charter count from this day.
+- **Lifespan:** 6 months (2027/05/23), ending with a formal proposal for SIG-AI and its charter. The TSC can extend the WG by vote if the work isn't finished.
 
 # Goals
 
@@ -85,11 +86,11 @@ Any pilot the WG runs on O3DE repositories follows these rules:
 
 | Month | Deliverable |
 |---|---|
-| 1 | WG formed: leadership team confirmed, repo created, weekly WG meetings on Discord. |
-| 2 | **AI contribution policy v1** presented to the TSC for ratification. |
-| 2–4 | Pilots: AI review and triage labeling in SIG-Platform repos, then in volunteer SIGs. Baseline metrics recorded before each pilot starts. |
-| 5 | Pilot report with recommendations: what to adopt project-wide, what to drop, and what it costs, including bring-your-own-AI. |
-| 6 | **SIG-AI charter** presented to the TSC. The WG closes when the TSC accepts the charter or decides not to form SIG-AI. |
+| 1 (2026/12/23) | WG formed: leadership team confirmed, repo created, weekly WG meetings on Discord. |
+| 2 (2027/01/23) | **AI contribution policy v1** presented to the TSC for ratification. |
+| 2–4 (2026/12/23 to 2027/03/23) | Pilots: AI review and triage labeling in SIG-Platform repos, then in volunteer SIGs. Baseline metrics recorded before each pilot starts. |
+| 5 (2027/04/23) | Pilot report with recommendations: what to adopt project-wide, what to drop, and what it costs, including bring-your-own-AI. |
+| 6 (2027/05/23) | **SIG-AI charter** presented to the TSC. The WG closes when the TSC accepts the charter or decides not to form SIG-AI. |
 
 # How pilots are measured
 
@@ -150,7 +151,7 @@ Each SIG can name one liaison, so policy drafts reflect how each SIG actually re
 
 # Path to SIG-AI
 
-The WG will recommend forming SIG-AI if, by month 6:
+The WG will recommend forming SIG-AI if, by month 6 (2027/05/23):
 
 * The TSC has ratified the AI contribution policy and it needs ongoing ownership.
 * At least one pilot has shown value worth keeping as permanent project infrastructure.

@@ -3,7 +3,8 @@
 The AI Working Group is a short-lived, cross-SIG group chartered by the O3DE Technical Steering Committee. It defines how O3DE uses AI as a project and how contributors may use it, then hands that work to a permanent SIG-AI.
 
 - **Formed:** 2026-11-17, by TSC resolution on [o3de/tsc#159](https://github.com/o3de/tsc/issues/159)
-- **Lifespan:** 6 months from formation (to about 2027-05-17). The TSC can extend it by vote.
+- **Started:** 2026/11/23, the first WG meeting. All timeline dates count from this day.
+- **Lifespan:** 6 months (2027/05/23). The TSC can extend it by vote.
 - **Charter:** [governance/WG AI Charter.md](governance/WG%20AI%20Charter.md)
 - **Meetings:** weekly, Mondays at 10:00 Pacific / 19:00 CET, in the [WG-AI Discord channel](https://discord.com/channels/805939474655346758/1052633353695793172). See [meetings](meetings/readme.md).
 
@@ -32,13 +33,13 @@ AI features in the engine itself (ML gems, in-editor assistants, AI-driven tools
 
 ## Deliverables
 
-| Month | Target | Deliverable | Status |
+| Month | Due | Deliverable | Status |
 |---|---|---|---|
-| 1 | 2026-12 | WG formed: leadership confirmed, repo created, weekly meetings running | In progress |
-| 2 | 2027-01 | **AI contribution policy v1** presented to the TSC for ratification | Not started |
-| 2–4 | 2027-01 to 2027-03 | Pilots: AI review and triage labeling in SIG-Platform repos, then volunteer SIGs, with baseline metrics recorded before each starts | Not started |
-| 5 | 2027-04 | Pilot report: what to adopt project-wide, what to drop, and what it costs (including bring-your-own-AI) | Not started |
-| 6 | 2027-05 | **SIG-AI charter** presented to the TSC. The WG closes when the TSC accepts it or decides not to form SIG-AI | Not started |
+| 1 | 2026/12/23 | WG formed: leadership confirmed, repo created, weekly meetings running | In progress |
+| 2 | 2027/01/23 | **AI contribution policy v1** presented to the TSC for ratification | Not started |
+| 2–4 | 2026/12/23 to 2027/03/23 | Pilots: AI review and triage labeling in SIG-Platform repos, then volunteer SIGs, with baseline metrics recorded before each starts | Not started |
+| 5 | 2027/04/23 | Pilot report: what to adopt project-wide, what to drop, and what it costs (including bring-your-own-AI) | Not started |
+| 6 | 2027/05/23 | **SIG-AI charter** presented to the TSC. The WG closes when the TSC accepts it or decides not to form SIG-AI | Not started |
 
 ## Leadership
 
