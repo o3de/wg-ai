@@ -28,7 +28,7 @@ The note taker commits notes to [notes/](notes/readme.md) as `YYYY-MM-DD-WG-AI-m
 
 1. [o3de/wg-ai: Issues](https://github.com/o3de/wg-ai/issues)
 2. [o3de/wg-ai: Pull Requests](https://github.com/o3de/wg-ai/pulls)
-3. [AI contribution policy draft](../policy/readme.md): status against the month-2 target
+3. [AI contribution policy draft](../policy/readme.md): status against the month-2 target (2027/01/23)
 4. [Pilots](../pilots/readme.md): status, metrics and SIG opt-ins
 5. Tooling and AI credit requests
 6. SIG liaison updates
