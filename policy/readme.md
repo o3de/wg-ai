@@ -4,6 +4,7 @@ This folder holds drafts of the project's AI contribution policy. The WG's targe
 
 - [AI Contribution Policy (draft).md](AI%20Contribution%20Policy%20(draft).md): the working draft, seeded from the strawman principles in [o3de/tsc#159](https://github.com/o3de/tsc/issues/159).
 - [AGENTS.md](AGENTS.md): proposed instructions for AI coding agents, to sit at the root of [o3de/o3de](https://github.com/o3de/o3de). Its ground rules follow the policy draft, so it lands upstream after the policy is ratified.
+- [CLAUDE.md](CLAUDE.md): a one-line import of `AGENTS.md` for Claude Code, which reads only `CLAUDE.md` in older versions and ignores `AGENTS.md` whenever a `CLAUDE.md` exists. Goes upstream with `AGENTS.md`.
 
 ## What the policy must cover
 
