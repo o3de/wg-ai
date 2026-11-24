@@ -3,6 +3,7 @@
 This folder holds drafts of the project's AI contribution policy. The WG's target is **v1 presented to the TSC in month 2 (2027/01/23)**. A draft takes effect only after the TSC ratifies it.
 
 - [AI Contribution Policy (draft).md](AI%20Contribution%20Policy%20(draft).md): the working draft, seeded from the strawman principles in [o3de/tsc#159](https://github.com/o3de/tsc/issues/159).
+- [AGENTS.md](AGENTS.md): proposed instructions for AI coding agents, to sit at the root of [o3de/o3de](https://github.com/o3de/o3de). Its ground rules follow the policy draft, so it lands upstream after the policy is ratified.
 
 ## What the policy must cover
 
